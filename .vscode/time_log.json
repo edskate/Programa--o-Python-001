@@ -1,0 +1,38 @@
+{
+  "Programa--o-Python-001": {
+    "Text01.py": [
+      {
+        "date": "2025-05-26T03:27:31.916Z",
+        "user": {
+          "name": "Edy_97_2024",
+          "email": "edskateicevida@gmail.com"
+        },
+        "timeSpent": 5
+      },
+      {
+        "date": "2025-05-26T03:28:18.662Z",
+        "user": {
+          "name": "Edy_97_2024",
+          "email": "edskateicevida@gmail.com"
+        },
+        "timeSpent": 47
+      },
+      {
+        "date": "2025-05-26T03:28:38.099Z",
+        "user": {
+          "name": "Edy_97_2024",
+          "email": "edskateicevida@gmail.com"
+        },
+        "timeSpent": 20
+      },
+      {
+        "date": "2025-05-26T03:28:50.514Z",
+        "user": {
+          "name": "Edy_97_2024",
+          "email": "edskateicevida@gmail.com"
+        },
+        "timeSpent": 12
+      }
+    ]
+  }
+}
